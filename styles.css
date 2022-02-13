@@ -1,0 +1,20 @@
+* {
+    background-color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+div.upper {
+    background-color: aqua;
+}
+
+.recipes {
+    background-color: blueviolet;
+    color:green;
+}
+
+li {
+    background-color: coral;
+}
